@@ -1,67 +1,75 @@
-# 👋 Hey, I'm Harshit Mistry!
+
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Harshit Mistry</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B9CFB&center=true&vCenter=true&width=600&lines=Developer+%7C+Tech+Enthusiast;Building+Ideas+Into+Reality;Exploring+AI+%26+Automation;Learning+Cybersecurity+%26+Networking" />
+  Technology Enthusiast | Aspiring Developer | Future Innovator
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=har-shit2001&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/har-shit2001?style=for-the-badge&color=6366F1&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/har-shit2001?style=for-the-badge&color=6366F1&label=STARS" />
+  Exploring technology, building meaningful projects,
+  solving problems and continuously learning.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Building+Ideas+into+Reality;Exploring+AI+%26+Automation;Learning+Cybersecurity+%26+Networking;Turning+Curiosity+into+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/har-shit2001">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=har-shit2001&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
   </a>
-  <a href="https://linkedin.com/in/harshit-mistry-ab583b305">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:harshitmistry05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/github/followers/har-shit2001?label=Followers&style=for-the-badge&color=7AA2F7" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/har-shit2001?style=for-the-badge&color=7AA2F7" alt="Stars"/>
 </p>
 
 ---
 
-## ◈ About Me
+<!-- ================= ABOUT ME ================= -->
 
-I'm a technology enthusiast and aspiring developer passionate about building useful digital solutions, exploring emerging technologies, and continuously improving my technical skills.
+## 🚀 About Me
 
-- 🎓 BBA(CA) Student | Ness Wadia College of Commerce
-- 💻 Interested in Software & Web Development
-- 🤖 Exploring Artificial Intelligence and Automation
-- 🔐 Learning Cybersecurity, Networking and Linux
-- 🧩 Enjoy solving problems and developing practical projects
-- 🤝 Open to collaboration, learning and innovative ideas
+- 🎓 BBA(CA) student passionate about Information Technology.
+- 💻 Interested in Software Development and Web Technologies.
+- 🤖 Exploring AI, Automation and intelligent solutions.
+- 🔐 Learning Cybersecurity, Networking and Linux.
+- 🛠️ Building practical projects to solve real-world problems.
+- 🤝 Interested in collaboration, innovation and open-source development.
+- 🌱 Believe in continuous learning and improvement.
 
-> **My philosophy:** Learn continuously. Build consistently. Improve every day.
+- 🔭 Currently working on **AURA – Automated Unified Resource Analysis**
+- 💡 Exploring **SkillSwap – A One-to-One Skills Exchange Platform**
+
+- 📫 Reach me at: **harshitmistry05@gmail.com**
 
 ---
 
-## ◈ What I'm Currently Doing
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 🎯 Current Focus
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Building
+### 💻 Development
 
-**AURA**
-
-Automated Unified Resource Analysis
-
-Working on system resource monitoring, analysis and energy-related insights.
+- Python Programming
+- Web Development
+- C / C++
+- PHP & MySQL
+- Database Management
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 Learning
+### 🌐 Exploring
 
-- Python Development
 - AI & Automation
 - Cybersecurity
 - Computer Networking
+- Linux
 - Cloud Technologies
 
 </td>
@@ -70,156 +78,143 @@ Working on system resource monitoring, analysis and energy-related insights.
 
 ---
 
-## ◈ Featured Projects
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ AURA
+### 🔹 AURA
 
 **Automated Unified Resource Analysis**
 
-A system monitoring and resource analysis project focused on collecting device metrics and presenting useful insights.
+A project focused on system resource monitoring, analysis and energy-related insights.
 
-`Python` `Flask` `C++` `SQLite` `Chart.js`
+**Technologies:**
+Python • Flask • C++ • SQLite • Chart.js
 
 **Status:** In Development
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 SkillSwap
+### 🔹 F1 Beginner Guide
 
-**One-to-One Skills Exchange Platform**
+A project created around Formula 1, designed to introduce beginners to the world of F1.
 
-A platform concept that connects people who want to learn and exchange skills through personalized interactions.
+**Technology:**
+CSS
 
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
-
-[View Project →](https://github.com/har-shit2001/SkillSwap_V3)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍪 Cookie Canvas
-
-**Bakery & Online Ordering Platform**
-
-A web project focused on presenting bakery products and simplifying customer ordering.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏎️ F1 Beginner Guide
-
-**Exploring the World of Formula 1**
-
-A beginner-friendly project introducing Formula 1 and its exciting world.
-
-`CSS`
-
-[View Project →](https://github.com/har-shit2001/F1_begnieer-guide)
+[View Repository →](https://github.com/har-shit2001/F1_begnieer-guide)
 
 </td>
 </tr>
 </table>
 
+> More projects and experiments are available in my repositories.
+
 <p align="center">
   <a href="https://github.com/har-shit2001?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
   </a>
 </p>
 
 ---
 
-## ◈ Tech Stack & Tools
+<!-- ================= TECHNOLOGIES ================= -->
+
+## 🧰 Languages & Technologies
 
 ### Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js" />
 </p>
 
-### Frontend Development
+### Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,chartjs" />
 </p>
 
-### Backend & Databases
+### Database & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,sqlite,flask" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,php" />
 </p>
 
-### Development Tools & Platforms
+### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=har-shit2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har-shit2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=har-shit2001&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=har-shit2001&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma,vscode" />
 </p>
 
 ---
 
-## ◈ Contribution Snake 🐍
+<!-- ================= GITHUB STATISTICS ================= -->
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/har-shit2001/har-shit2001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=har-shit2001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har-shit2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+### ⭐ Stars & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=har-shit2001&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## ◈ Let's Connect!
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/har-shit2001">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=har-shit2001&theme=tokyo-night&hide_border=true&area=true&custom_title=Harshit's%20Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/har-shit2001/har-shit2001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/harshit-mistry-ab583b305">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://instagram.com/har_shit_0905">
-    <img src="https://skillicons.dev/icons?i=instagram" width="42" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;
   <a href="mailto:harshitmistry05@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
   <a href="https://github.com/har-shit2001">
-    <img src="https://skillicons.dev/icons?i=github" width="42" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center">
-  <b>💬 Have an interesting idea? Let's build something meaningful together!</b>
-</p>
+---
 
 <p align="center">
-  <i>"Code. Create. Collaborate. Repeat."</i>
+  <i>"Turning curiosity into code, ideas into innovation, and challenges into opportunities."</i>
 </p>
 
-<h3 align="center">Thanks for visiting! ⭐</h3>
+<h3 align="center">Thanks for visiting my profile! 🚀</h3>
